@@ -1,0 +1,13 @@
+div.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+form.form-short-link {
+    width: 500px;
+    margin: 50px auto;
+}
+
+.hidden-hidden {
+    display: none;
+}
